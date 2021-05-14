@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<haberler>
+  <baslik>
+    Spor Haber Xml Servisi
+  </baslik>
+  <aciklama>
+    Spor haberlerinin anlik olarak paylasildigi Xml servisi
+  </aciklama>
+  <link>http://www.fanatik.com </link>
+  <tarih>13.05.2021-Persembe</tarih>
+
+  <haber>
+    <baslik> Besiktas'a muthis rakam! 50 milyon euro</baslik>
+    <aciklama>
+      Besiktas'ta bazi oyuncularin yurt disindan gelen
+      tekliflerin toplamda 45-50 milyon euro'ya ulastigi belirlendi.
+    </aciklama>
+  </haber>
+  <haber>
+    <baslik> Yildiz oyuncunun sok sakatligi.Euro 2021'i kaciracak.</baslik>
+    <aciklama>
+      Borussia Dortmund'un Turk asilli Alman fubolcusu Ilkay Gundogan sakatligi sebebiyle
+      yazin oynanacak euro 2021 de forma giyemeyecek
+    </aciklama>
+  </haber>
+  <!--<haber>
+    <baslik> Yildiz oyuncunun sok sakatligi.Euro 2021'i kaciracak.</baslik>
+    <aciklama>
+      Borussia Dortmund'un Turk asilli Alman fubolcusu Ilkay Gundogan sakatligi sebebiyle
+      yazin oynanacak euro 2021 de forma giyemeyecek
+    </aciklama>
+  </haber>
+  <haber>
+    <baslik> Yildiz oyuncunun sok sakatligi.Euro 2021'i kaciracak.</baslik>
+    <aciklama>
+      Borussia Dortmund'un Turk asilli Alman fubolcusu Ilkay Gundogan sakatligi sebebiyle
+      yazin oynanacak euro 2021 de forma giyemeyecek
+    </aciklama>
+  </haber>
+  <haber>
+    <baslik> Yildiz oyuncunun sok sakatligi.Euro 2021'i kaciracak.</baslik>
+    <aciklama>
+      Borussia Dortmund'un Turk asilli Alman fubolcusu Ilkay Gundogan sakatligi sebebiyle
+      yazin oynanacak euro 2021 de forma giyemeyecek
+    </aciklama>
+  </haber>-->
+</haberler>
+
